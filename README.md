@@ -25,7 +25,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge)](https://www.linkedin.com/in/cauã-melo-portela/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge)](https://www.instagram.com/melo_bahh/)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge)](https://discord.gg/YecVAkYHcT)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge)](https://discord.gg/YecVAkYHcT)[
+[![itch.io](https://img.shields.io/badge/-Itchio-000?style=for-the-badge)]([![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge)](https://discord.gg/YecVAkYHcT))
 
 <h3 align="left">Minhas linguagens: </h3>
 
