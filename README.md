@@ -28,7 +28,7 @@
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge)](https://discord.gg/YecVAkYHcT)
 [![itch.io](https://img.shields.io/badge/-Itchio-000?style=for-the-badge)](https://melodotcom.itch.io/)
 
-<h3 align="left">Minhas linguagens: </h3>
+<h3 align="left">Minhas linguagens: </h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
