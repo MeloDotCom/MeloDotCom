@@ -4,8 +4,6 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
-
 #
 
 <p align="justify">
