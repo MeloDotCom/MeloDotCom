@@ -10,11 +10,11 @@
 
 <p align="center"> 
   
-ㅤㅤSou um estudante do último ano do curso técnico em TI no CETEC UCS, com uma grande paixão pela área de Tecnologia da Informação. Ao longo da minha jornada, adquiri experiências práticas em programação, administração de redes e suporte técnico, sempre em busca de novos desafios e aprendizados. Além disso, também tenho cursos complementares em inglês e manutenção de computadores e redes, que expandem minha formação e me preparam para atuar de forma mais completa no mercado.
+  Sou um estudante do último ano do curso Técnico em Tecnologia da Informação no CETEC – UCS, com grande interesse pela área. Ao longo da minha trajetória, desenvolvi experiência prática em programação, administração de redes e suporte técnico, sempre buscando novos desafios e oportunidades de aprendizado.
 
-ㅤㅤTenho me dedicado a projetos que buscam solucionar problemas reais. Um dos meus projetos foi um site premiado na Mostra Científica do CETEC (Sapo - Serviço de Apoio e Orientação Online), e outro visa facilitar o cálculo da média ponderada, ajudando os estudantes do CETEC UCS a descobrirem quanto precisam tirar no 3º trimestre para alcançar suas metas. Esses projetos me proporcionaram não só conhecimento técnico, mas também a oportunidade de aplicar minha criatividade e resolver problemas de forma prática.
+  Tenho me dedicado a projetos voltados à solução de problemas reais. Entre eles, desenvolvi um site premiado em uma mostra científica, voltado a oferecer apoio e orientação online aos usuários. Outro projeto facilita o cálculo da média ponderada, ajudando estudantes a descobrir de forma simples quais notas precisam alcançar no último trimestre para atingir suas metas. Essas iniciativas fortaleceram minhas habilidades técnicas e minha capacidade de transformar ideias em soluções funcionais.
 
-ㅤㅤAtualmente, estou em busca de oportunidades e vagas na área de TI, com foco em desenvolvimento e suporte técnico. Se você compartilha dessa mesma paixão por tecnologia e inovação, adoraria conectar-me para trocar ideias e experiências!
+  Atualmente, estou em busca de oportunidades na área de TI, com foco em desenvolvimento e suporte técnico. Se você também compartilha o interesse por tecnologia e inovação, será um prazer conectar e trocar experiências!
 </p>
 
 #
@@ -43,12 +43,20 @@
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3> Status do GitHub: </h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MeloDotCom&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFFF00&text_color=FFF&border_radius=3&border_color=FFFF00c&icon_color=FFFF00&theme=jolly" alt="GitHub stats">
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MeloDotCom&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFF00&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
+<div align="center">
+
+### Status do GitHub:
+<br>
+
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MeloDotCom&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FFFF00&text_color=FFFFFF&border_radius=3&border_color=FFFF00&icon_color=FFFF00&theme=jolly" 
+  alt="GitHub stats"
+/>
+
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MeloDotCom&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFF00&bg_color=000000&text_color=8B8B8B&border_radius=3&border_color=FFFFFF" 
+  alt="Most Used Languages"
+/>
 
 </div>
 
