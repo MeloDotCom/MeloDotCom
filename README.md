@@ -4,10 +4,9 @@
   </a>
 </div>
 
-#
+---
 
 <p align="justify">
-
 &nbsp;&nbsp;&nbsp;&nbsp;Sou um estudante do último ano do curso Técnico em Tecnologia da Informação no CETEC – UCS, com grande interesse pela área. Ao longo da minha trajetória, desenvolvi experiência prática em programação, administração de redes e suporte técnico, sempre buscando novos desafios e oportunidades de aprendizado.
 <br><br>
   
@@ -15,26 +14,44 @@
 <br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Atualmente, estou em busca de oportunidades na área de TI, com foco em desenvolvimento e suporte técnico. Se você também compartilha o interesse por tecnologia e inovação, será um prazer conectar e trocar experiências!
-
 </p>
 
-#
+---
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<div align="right">
+  <img alt="study gif" height="190px" src="./src/study.gif">
+</div>
 
-<h3 align="left">Fale comigo: </h3>
+<h3 align="center">Fale comigo:</h3>
+
+<div align="center" style="margin-top: 10px;">
+
+  <a href="https://www.linkedin.com/in/cauã-melo-portela/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.instagram.com/melo_bahh/">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge" />
+  </a>
+
+  <a href="https://discord.gg/YecVAkYHcT">
+    <img src="https://img.shields.io/badge/-Discord-000?style=for-the-badge" />
+  </a>
+
+  <a href="https://melodotcom.itch.io/">
+    <img src="https://img.shields.io/badge/-Itch.io-000?style=for-the-badge" />
+  </a>
+
+</div>
+
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge)](https://www.linkedin.com/in/cauã-melo-portela/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge)](https://www.instagram.com/melo_bahh/)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge)](https://discord.gg/YecVAkYHcT)
-[![itch.io](https://img.shields.io/badge/-Itchio-000?style=for-the-badge)](https://melodotcom.itch.io/)
-
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeloNauta/MeloNauta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeloNauta/Melonauta/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MeloNauta/MeloDotCom/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeloNauta/MeloNauta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MeloNauta/MeloNauta/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
