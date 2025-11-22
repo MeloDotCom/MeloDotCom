@@ -8,17 +8,18 @@
 
 #
 
-<p align="justify">
+<div style="text-align: justify; text-indent: 1.6em; margin: 0 0 1em 0;">
+  Sou um estudante do último ano do curso Técnico em Tecnologia da Informação no CETEC – UCS, com grande interesse pela área. Ao longo da minha trajetória, desenvolvi experiência prática em programação, administração de redes e suporte técnico, sempre buscando novos desafios e oportunidades de aprendizado.
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Sou um estudante do último ano do curso Técnico em Tecnologia da Informação no CETEC – UCS, com grande interesse pela área. Ao longo da minha trajetória, desenvolvi experiência prática em programação, administração de redes e suporte técnico, sempre buscando novos desafios e oportunidades de aprendizado.
-<br><br>
-  
-&nbsp;&nbsp;&nbsp;&nbsp;Tenho me dedicado a projetos voltados à solução de problemas reais. Entre eles, desenvolvi um site premiado em uma mostra científica, voltado a oferecer apoio e orientação online aos usuários. Outro projeto facilita o cálculo da média ponderada, ajudando estudantes a descobrir de forma simples quais notas precisam alcançar no último trimestre para atingir suas metas. Essas iniciativas fortaleceram minhas habilidades técnicas e minha capacidade de transformar ideias em soluções funcionais.
-<br><br>
+<div style="text-align: justify; text-indent: 1.6em; margin: 0 0 1em 0;">
+  Tenho me dedicado a projetos voltados à solução de problemas reais. Entre eles, desenvolvi um site premiado em uma mostra científica, voltado a oferecer apoio e orientação online aos usuários. Outro projeto facilita o cálculo da média ponderada, ajudando estudantes a descobrir de forma simples quais notas precisam alcançar no último trimestre para atingir suas metas. Essas iniciativas fortaleceram minhas habilidades técnicas e minha capacidade de transformar ideias em soluções funcionais.
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Atualmente, estou em busca de oportunidades na área de TI, com foco em desenvolvimento e suporte técnico. Se você também compartilha o interesse por tecnologia e inovação, será um prazer conectar e trocar experiências!
+<div style="text-align: justify; text-indent: 1.6em; margin: 0 0 1em 0;">
+  Atualmente, estou em busca de oportunidades na área de TI, com foco em desenvolvimento e suporte técnico. Se você também compartilha o interesse por tecnologia e inovação, será um prazer conectar e trocar experiências!
+</div>
 
-</p>
 
 
 #
