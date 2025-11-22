@@ -6,6 +6,8 @@
 
 #
 
+<h3 align="left">Sobre mim: </h3>
+
 <p align="justify">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Sou um estudante do último ano do curso Técnico em Tecnologia da Informação no CETEC – UCS, com grande interesse pela área. Ao longo da minha trajetória, desenvolvi experiência prática em programação, administração de redes e suporte técnico, sempre buscando novos desafios e oportunidades de aprendizado.
