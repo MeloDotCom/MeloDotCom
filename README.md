@@ -7,6 +7,7 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 #
+
 <p align="justify">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Sou um estudante do último ano do curso Técnico em Tecnologia da Informação no CETEC – UCS, com grande interesse pela área. Ao longo da minha trajetória, desenvolvi experiência prática em programação, administração de redes e suporte técnico, sempre buscando novos desafios e oportunidades de aprendizado.
@@ -18,6 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Atualmente, estou em busca de oportunidades na área de TI, com foco em desenvolvimento e suporte técnico. Se você também compartilha o interesse por tecnologia e inovação, será um prazer conectar e trocar experiências!
 
 </p>
+
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
