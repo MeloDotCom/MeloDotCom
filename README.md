@@ -4,7 +4,7 @@
   
 </div>
 
-#
+###
 
 <h3 align="left">Sobre mim: </h3>
 
@@ -32,6 +32,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge)](https://www.instagram.com/melo_bahh/)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge)](https://discord.gg/YecVAkYHcT)
 [![itch.io](https://img.shields.io/badge/-Itchio-000?style=for-the-badge)](https://melodotcom.itch.io/)
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeloNauta/MeloNauta/output/github-contribution-grid-snake-dark.svg">
