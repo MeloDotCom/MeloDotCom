@@ -35,8 +35,7 @@ Hoje gosto muito da área de TI como um todo. Gosto de aprender coisas novas, co
 <div align="center">
 
 ![Image](https://github.com/user-attachments/assets/0e82eb7a-d837-49da-9f91-15c17a5da944)
-
-&nbsp;
+<br>
 
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -81,7 +80,7 @@ Hoje gosto muito da área de TI como um todo. Gosto de aprender coisas novas, co
 &nbsp;
 
 ![Image](https://github.com/user-attachments/assets/40db2975-4014-4e54-99cd-70c44f9e98b5)
-&nbsp;
+<br>
 
 ![Image](https://github.com/user-attachments/assets/b1f88175-8332-4be9-bd00-32d6519831d6)
 &nbsp;
