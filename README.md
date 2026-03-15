@@ -30,7 +30,7 @@
 
 [![Image](https://github.com/user-attachments/assets/b14a52fa-33d6-42f7-817e-843b6fff774f)](https://www.linkedin.com/in/cauã-melo-portela/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Image](https://github.com/user-attachments/assets/adb4b16e-e57a-4670-8f2f-6f5b94707436)](https://www.instagram.com/melo_bahh/)
+[![Image](https://github.com/user-attachments/assets/58542bd6-01fb-4ff5-9e19-2c8e8648488d)](https://www.instagram.com/melo_bahh/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Image](https://github.com/user-attachments/assets/6b1ec4cd-7e67-4245-aa03-8f07bd397c2c)](https://melodotcom.itch.io/)
 
