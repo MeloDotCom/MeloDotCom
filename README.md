@@ -6,7 +6,9 @@
 
 #
 
-<div align="left">![Image](https://github.com/user-attachments/assets/90ecf242-2655-4934-8eee-db13e9a7de11)</div>
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/90ecf242-2655-4934-8eee-db13e9a7de11" />
+</div>
 
 <p align="justify">
 
