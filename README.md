@@ -32,12 +32,4 @@
 [![Image](https://github.com/user-attachments/assets/adb4b16e-e57a-4670-8f2f-6f5b94707436)](https://www.instagram.com/melo_bahh/)
 [![Image](https://github.com/user-attachments/assets/6b1ec4cd-7e67-4245-aa03-8f07bd397c2c)](https://melodotcom.itch.io/)
 
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeloNauta/MeloNauta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeloNauta/Melonauta/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MeloNauta/MeloDotCom/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
