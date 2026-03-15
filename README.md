@@ -82,11 +82,11 @@ Hoje gosto muito da área de TI como um todo. Gosto de aprender coisas novas, co
 ![Image](https://github.com/user-attachments/assets/40db2975-4014-4e54-99cd-70c44f9e98b5)
 <br>
 
-![Image](https://github.com/user-attachments/assets/b1f88175-8332-4be9-bd00-32d6519831d6)
+[![Image](https://github.com/user-attachments/assets/b1f88175-8332-4be9-bd00-32d6519831d6)](https://www.linkedin.com/in/cauã-melo-portela)
 &nbsp;
-![Image](https://github.com/user-attachments/assets/098bfe17-ae9e-4339-bd84-1a361451caff)
+[![Image](https://github.com/user-attachments/assets/098bfe17-ae9e-4339-bd84-1a361451caff)](https://www.instagram.com/melo_bahh/)
 &nbsp;
-![Image](https://github.com/user-attachments/assets/c4ec22be-05ee-4e5c-9f79-7f070ee36f62)
+[![Image](https://github.com/user-attachments/assets/c4ec22be-05ee-4e5c-9f79-7f070ee36f62)](https://melodotcom.itch.io)
 
 &nbsp;
 
