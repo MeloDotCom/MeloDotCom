@@ -1,7 +1,5 @@
 <div align="center">
   
-[![Image](https://github.com/user-attachments/assets/7de45d5f-f3a8-4790-9a99-50893023f54a)](https://www.melodotcom.site)
-  
 </div>
 
 <img width="2048" height="154" alt="Image" src="https://github.com/user-attachments/assets/36d85d69-2f32-4c34-8133-4f8dfa0af27d" />
@@ -30,10 +28,13 @@
 
 <div align="center">
 
+![Image](https://github.com/user-attachments/assets/6766ad8f-3e06-4edf-8a34-ce18c9eccd9f)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Image](https://github.com/user-attachments/assets/b14a52fa-33d6-42f7-817e-843b6fff774f)](https://www.linkedin.com/in/cauã-melo-portela/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Image](https://github.com/user-attachments/assets/b2900e40-c179-4f9e-9097-70edea7b5896)](https://www.instagram.com/melo_bahh/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Image](https://github.com/user-attachments/assets/6b1ec4cd-7e67-4245-aa03-8f07bd397c2c)](https://melodotcom.itch.io/)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Image](https://github.com/user-attachments/assets/b677aa94-dcad-422f-94ae-4ed90269eda7)
 </div>
