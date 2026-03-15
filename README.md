@@ -4,8 +4,6 @@
 
 </div>
 
-<img width="2048" height="154" alt="Image" src="https://github.com/user-attachments/assets/36d85d69-2f32-4c34-8133-4f8dfa0af27d" />
-
 <div align="left">
 
 </div>
