@@ -28,10 +28,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge)](https://www.linkedin.com/in/cauã-melo-portela/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge)](https://www.instagram.com/melo_bahh/)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge)](https://discord.gg/YecVAkYHcT)
-[![itch.io](https://img.shields.io/badge/-Itchio-000?style=for-the-badge)](https://melodotcom.itch.io/)
+[![Image](https://github.com/user-attachments/assets/b14a52fa-33d6-42f7-817e-843b6fff774f)](https://www.linkedin.com/in/cauã-melo-portela/)
+[![Image](https://github.com/user-attachments/assets/adb4b16e-e57a-4670-8f2f-6f5b94707436)](https://www.instagram.com/melo_bahh/)
+[![Image](https://github.com/user-attachments/assets/6b1ec4cd-7e67-4245-aa03-8f07bd397c2c)](https://melodotcom.itch.io/)
 
 #
 
