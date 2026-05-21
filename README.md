@@ -75,7 +75,7 @@ Hoje gosto muito da área de TI como um todo. Gosto de aprender coisas novas, co
 
 &nbsp;
 
-<img width="400" height="100" alt="Image" src="https://github.com/user-attachments/assets/d704a026-1a4c-4f74-88d5-5a08cd3bd297" />
+<img width="400" height="80" alt="Image" src="https://github.com/user-attachments/assets/d704a026-1a4c-4f74-88d5-5a08cd3bd297" />
 
 &nbsp;
 
@@ -90,7 +90,7 @@ Hoje gosto muito da área de TI como um todo. Gosto de aprender coisas novas, co
 
 &nbsp;
 
-<img width="400" height="70" alt="Image" src="https://github.com/user-attachments/assets/bc179c1a-4ba8-44d0-9e30-b05f1d6aface" />
+<img width="400" height="50" alt="Image" src="https://github.com/user-attachments/assets/bc179c1a-4ba8-44d0-9e30-b05f1d6aface" />
 
 </div>
 
